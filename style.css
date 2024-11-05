@@ -1,0 +1,43 @@
+h1{
+	text-align: center;
+	font-family: Eczar;
+	background-color: white;
+	color: black;
+	}
+	.name{
+		margin-top: 50%;
+	}
+img{
+	width: 100px;
+	border-radius: 100%;
+	border: 10px;
+	border-color: white;
+
+}
+a{
+	text-decoration: none;
+	color: black;
+
+}
+a:hover{
+	color: white;
+}
+table{
+	text-align: center;
+}
+.container{
+	font-family: Fraunces;
+	
+}
+body{
+	background-image: url(https://wallpapers.com/images/hd/genshin-impact-4k-tmyg4fxrhex02pvt.jpg);
+}
+footer{
+	text-align: center;
+	background-color: white;
+	font-family: Eczar;
+	position: fixed;
+ 	left: 0;
+  	bottom: 0;
+  	right: 0;
+}
